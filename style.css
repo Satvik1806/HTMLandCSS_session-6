@@ -417,6 +417,15 @@ header{
     color: rgb(158, 158, 158);
 }
 
+.ref p a{
+    text-decoration: none;
+    color: rgb(0, 109, 218);
+}
+
+.ref p a:hover{
+    color: black;
+}
+
 .ref a{
     margin-right: 10px;
     font-size: 10px;
@@ -426,4 +435,8 @@ header{
 
 .ref a:hover{
     color: rgb(0, 123, 247);
+}
+
+.links{
+    margin-left: 300px;
 }
